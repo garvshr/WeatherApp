@@ -8,7 +8,7 @@ import java.net.URI;
 
 public class weather 
 {
-	static String key = "d45a810de205db79b84d6810ad1f0448";
+	static String key = "key";
 	static String BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q=";
 	
 	 public static String getWeather(String city)
